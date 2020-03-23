@@ -1,7 +1,8 @@
 package com.android.animatedgif.Activity;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.android.animatedgif.R;
 import com.android.animatedgif.Utils.GifImageView;
