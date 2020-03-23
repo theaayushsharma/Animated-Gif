@@ -15,6 +15,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         GifImageView gifImageView = (GifImageView) findViewById(R.id.GifImageView);
-        gifImageView.setGifImageResource(R.drawable.smartphone_drib);
+        gifImageView.setGifImageResource(R.drawable.sample);
     }
 }
